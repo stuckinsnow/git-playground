@@ -1,2 +1,6 @@
 This line will conflict - main version
-
+This line will conflict - feature branch version
+Another conflicting line - main version
+Another conflicting line - feature branch version
+Yet another line - main version
+Yet another line - feature branch version
