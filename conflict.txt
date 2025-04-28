@@ -1,2 +1,6 @@
 This line will conflict - branch version
-
+2: Adding more lines to test merge conflicts.
+3: This is the second additional line.
+4: Here comes the third line for testing.
+Yet another line - no conflict version
+6: Final line for this test scenario.
